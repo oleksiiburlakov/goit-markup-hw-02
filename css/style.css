@@ -65,17 +65,16 @@ background-color: #fff;
             color: #fff;
     }
        
-.Service {
+.service {
    
 }
-.Service-name {
-        text-transform: capitalize;
-            background-color: #FFFFFF;
-            font-weight: 500;
-            font-size: 20px;
-            line-height: 1.2;
-            letter-spacing: 0.02em;
-            color: #2e2f42;
+.service-name {
+         text-transform: capitalize;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .service-name-text {
     text-transform: capitalize;
