@@ -57,13 +57,13 @@ background-color: #fff;
 
     .type-button{
         cursor: pointer;
-        background-color: #4D5AE5
             font-weight: 500;
             font-size: 16px;
             line-height: 1.5;
             letter-spacing: 0.04em;
             color: #fff;
     }
+       
 .Service {}
 .Service-name {
      text-transform: capitalize;
@@ -82,7 +82,8 @@ background-color: #fff;
 .team {
     background-color: #F4F4FD
 }
-.team-title { text-transform: capitalize;
+.team-title { 
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -91,8 +92,10 @@ background-color: #fff;
     color: #2e2f42;
 }
 .team-img {
+    background-color: #FFFFFF
 }
 .team-img-name {
+    text-transform: capitalize
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -101,21 +104,21 @@ background-color: #fff;
     color: #2e2f42;
 }
 .team-img-name-text {
-    background-color: #FFFFFF
+    text-align: center;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #434455;
 }
 
 
-.portfolio {}
+.portfolio {
+    background-color: #FFFFFF;
+}
 
 .portfolio-title {
     text-transform: capitalize
-    background-color: #FFFFFF;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -132,15 +135,15 @@ background-color: #fff;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
-.portfolio-img-name-text {font-family: "Roboto", sans-serif;
+.portfolio-img-name-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
     
-.type-button:hover,
-.type-button:focus,
+ .type-button:hover,
+ .type-button:focus,
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
