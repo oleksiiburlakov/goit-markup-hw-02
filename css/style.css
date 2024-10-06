@@ -23,6 +23,7 @@ background-color: #fff;
         color: #2e2f42;
     }
     .footer-logo .logo-part{
+
         color: #f4f4fd;    }
 .nav-link{
             font-weight: 500;
@@ -43,8 +44,10 @@ background-color: #fff;
         }
 
 
-
-.button-title {background-color: #FFFFFF
+.button{
+        background-color: #2e2f42;
+}
+.button-title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -65,11 +68,12 @@ background-color: #fff;
     letter-spacing: 0.02em;
     color: #434455;}
 .team {
+    background-color: #F4F4FD
 }
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -85,6 +89,7 @@ background-color: #fff;
     color: #2e2f42;
 }
 .team-img-name-text {
+    background-color: #FFFFFF
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
