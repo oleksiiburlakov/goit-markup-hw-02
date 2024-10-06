@@ -44,10 +44,10 @@ background-color: #fff;
 
 
 
-.button-title {
+.button-title {background-color: #FFFFFF
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}
@@ -96,10 +96,10 @@ background-color: #fff;
 
 .portfolio {}
 
-.portfolio-title {font-family: "Roboto", sans-serif;
+.portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;}
@@ -126,3 +126,18 @@ background-color: #fff;
 .contacts-link:focus {
 color: #404bbf;
 }
+footer{
+    
+}
+.page-footer{background-color: #2e2f42;}
+.logo-footer-logo-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;}
+.logo {}
+
+.footer-logo {}
+
+.logo-part {}
