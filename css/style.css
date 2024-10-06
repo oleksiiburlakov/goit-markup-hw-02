@@ -55,7 +55,8 @@ background-color: #fff;
     text-align: center;
     color: #fff;}
 .Service {}
-.Service-name {
+.Service-name { text-transform: capitalize;
+    background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -70,7 +71,7 @@ background-color: #fff;
 .team {
     background-color: #F4F4FD
 }
-.team-title {
+.team-title { text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
