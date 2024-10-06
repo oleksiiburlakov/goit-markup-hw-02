@@ -54,15 +54,26 @@ background-color: #fff;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}
+
+    .type-button{
+        cursor: pointer;
+        background-color: #4D5AE5
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #fff;
+    }
 .Service {}
-.Service-name { text-transform: capitalize;
+.Service-name {
+     text-transform: capitalize;
     background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
-.Service-name-text {
+.service-name-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -103,6 +114,8 @@ background-color: #fff;
 .portfolio {}
 
 .portfolio-title {
+    text-transform: capitalize
+    background-color: #FFFFFF;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -126,7 +139,9 @@ background-color: #fff;
     letter-spacing: 0.02em;
     color: #434455;}
     
- .nav-link:hover,
+.type-button:hover,
+.type-button:focus,
+.nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
